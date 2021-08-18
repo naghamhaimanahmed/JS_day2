@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hi !</title>
+<script type="text/javascript">
+function show_now();
+var my time = new Date();
+document.getEllementById('display').innerHTML=my_time()
+
+</script>
+</head>
+<body>
+    <input type=button value="man" onclick="show_me();">
+        
+</body>
+</html>
